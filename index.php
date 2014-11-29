@@ -17,11 +17,8 @@
         <video width="650" height="350" autoplay>
           <source src="video.mp4" type="video/mp4">
         </video>  
-        
-        <p align="center" class="lead">Hellotest everyone! Welcome to the LOTUS STEM repository for course work.</p>
-        <p align="center" class="lead">You can find all the materials for our class here.</p>
       </div>
-
+<!-- front page 
       <div class="row marketing">
         <div class="col-lg-6">
           <h2>Lessons</h2>
@@ -104,7 +101,7 @@
           <h4>4) Compose electronic music</h4>
           <p>Use <a href="http://cycling74.com/">Max</a> to compose a piece of music to be played by the computer. You can also integrate live audio input so you can sing along. Be sure to check out all the tutorials in the Help section of Max.<p>
       </div>
-
+-->
       <div class="footer">
       </div>
 
