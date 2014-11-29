@@ -15,7 +15,7 @@
 
       <div style="background-color:#B3B3B3" class="jumbotron">
         <img src="imgs/logo.png">
-        <p align="center" class="lead">Hello everyone! Welcome to the LOTUS STEM repository for course work.</p>
+        <p align="center" class="lead">Hellotest everyone! Welcome to the LOTUS STEM repository for course work.</p>
         <p align="center" class="lead">You can find all the materials for our class here.</p>
       </div>
 
