@@ -11,7 +11,7 @@
     <div class="container">
 
 <?php navbar("Location") ?>
-
+<!-- 
         <div class="row">
 
             <div class="col-lg-12">
@@ -75,8 +75,8 @@
        <footer>
         <br><br><br><br><br><hr>
        </footer>
-
-    </div>
+-->
+    </div> 
     <!-- /container -->
 
     <!-- JavaScript -->

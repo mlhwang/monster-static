@@ -11,7 +11,7 @@
     <div class="container">
 
 <?php navbar("Papers") ?>
-
+<!--
         <div class="row">
 
             <div class="col-lg-12">
@@ -79,7 +79,7 @@
        <footer>
         <br><br><br><br><br><hr>
        </footer>
-
+-->
     </div>
     <!-- /container -->
 
