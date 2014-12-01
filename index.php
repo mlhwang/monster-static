@@ -14,11 +14,11 @@
 
 
       <div style="background-color:#B3B3B3" class="jumbotron">
-        <iframe src="//player.vimeo.com/video/61055676" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen>
+        <iframe src="//player.vimeo.com/video/61055676" width="650" height="400" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen>
         </iframe> <p>
-        <a href="http://vimeo.com/61055676">MA_In_Action_INTED2</a> from 
-        <a href="http://vimeo.com/user9470829">Maria Hwang</a> on 
-        <a href="https://vimeo.com">Vimeo</a>.</p> 
+        <a href="http://vimeo.com/61055676">Monster Appetite Gameplay</a> from 
+        <a href="http://vimeo.com/user9470829">Maria Hwang</a> with 
+        <a href="https://vimeo.com">Grad Students</a>.</p> 
       </div>
 <!-- front page 
       <div class="row marketing">
