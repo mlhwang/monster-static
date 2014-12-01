@@ -28,10 +28,10 @@
       <div class="ppt"> 
         <iframe src= "https://docs.google.com/presentation/d/13muREMhAMfbmIm9afNFooYdG5XnNAyqYBK7B1fLZmvc/edit#slide=id.p69">
         </iframe>
-      </div> -->
+      </div> 
       <div class="ppt2">
         <embed src="Monster Appetite_public.swf">
-      </div>
+      </div> -->
 <!-- front page 
       <div class="row marketing">
         <div class="col-lg-6">

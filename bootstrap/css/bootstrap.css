@@ -4590,7 +4590,8 @@ a.list-group-item.active > .badge,
 .container .ppt2 {
   float: right;
   text-align:left;
-  max-width: 300%;
+  width: 300%;
+  height: 300%;
   embed:focus { 
   outline: none;
   }
