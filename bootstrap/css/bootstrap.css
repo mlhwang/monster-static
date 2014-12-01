@@ -4584,11 +4584,10 @@ a.list-group-item.active > .badge,
 }
 .container .ppt {
   text-align:right;
-  max-width: 300%;
-  border-radius: 6px;
 }
 .container .ppt2 {
   float: right;
+  font-size: 40px;
   embed:focus { 
   outline: none;
   }
