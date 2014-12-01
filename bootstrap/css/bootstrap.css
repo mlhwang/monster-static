@@ -4583,10 +4583,13 @@ a.list-group-item.active > .badge,
   }
 }
 .container .ppt {
-  max-width: 100%;
+  text-align:right;
+  max-width: 300%;
   border-radius: 6px;
 }
 .container .ppt2 {
+  text-align:left;
+  max-width: 300%;
   embed:focus { 
   outline: none;
   }
