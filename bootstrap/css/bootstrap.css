@@ -4582,6 +4582,10 @@ a.list-group-item.active > .badge,
     font-size: 63px;
   }
 }
+.container .ppt {
+  max-width: 100%;
+  border-radius: 6px;
+}
 .thumbnail {
   display: block;
   padding: 4px;
