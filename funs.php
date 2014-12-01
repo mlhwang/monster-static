@@ -18,7 +18,7 @@ function head($css_sheet){
     <meta name=\"description\" content=\"\">
     <meta name=\"author\" content=\"\">
 
-    <title>LOTUS STEM Team</title>
+    <title>Monster Appetite</title>
 
     <!-- Bootstrap core CSS -->
     <link href=\"bootstrap/css/bootstrap.min.css\" rel=\"stylesheet\">
@@ -41,19 +41,19 @@ function navbar($page){
    echo"><a href=\"/\">Home</a></li>";
 
    echo " <li ";
-   if ($page == 'Teachers') echo "class=\"active\"";
+   if ($page == 'Team Members') echo "class=\"active\"";
    echo"><a href=\"teachers.php\">Teachers</a></li>";
 
    echo " <li ";
-   if ($page == 'Students') echo "class=\"active\"";
+   if ($page == 'Fixing') echo "class=\"active\"";
    echo"><a href=\"students.php\">Students</a></li>";
 
    echo " <li ";
-   if ($page == 'Photos') echo "class=\"active\"";
+   if ($page == 'Fixing') echo "class=\"active\"";
    echo"><a href=\"photos.php\">Photos</a></li>";
 
    echo " <li ";
-   if ($page == 'Location') echo "class=\"active\"";
+   if ($page == 'Fixing') echo "class=\"active\"";
    echo"><a href=\"location.php\">Location</a></li>";
 
    echo" </ul>

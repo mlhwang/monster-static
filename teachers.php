@@ -34,7 +34,7 @@
                 <h3>Maria Hwang
                     <small>Game Designer / Dev</small>
                 </h3>
-                <p> Maria is a doctoral student at Teachers College, Columbia Univeristy</p>
+                <p> Maria is a doctoral student at Teachers College, Columbia Univeristy studying educational technology. </p>
             </div>
             
         </div>
