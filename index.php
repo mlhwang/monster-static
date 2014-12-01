@@ -20,6 +20,10 @@
         <a href="http://vimeo.com/user9470829">Maria Hwang</a> with 
         <a href="https://vimeo.com">Grad Students</a>.</p> 
       </div>
+      <div> 
+        <iframe src= "https://docs.google.com/presentation/d/13muREMhAMfbmIm9afNFooYdG5XnNAyqYBK7B1fLZmvc/edit#slide=id.p69">
+        </iframe>
+      </div>
 <!-- front page 
       <div class="row marketing">
         <div class="col-lg-6">
