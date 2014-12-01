@@ -20,7 +20,7 @@
         <a href="http://vimeo.com/user9470829">Maria Hwang</a> with 
         <a href="https://vimeo.com">Grad Students</a>.</p> 
           <div class="ppt2">
-            <embed src="Monster Appetite_public.swf">
+            <embed src="Monster Appetite_public.swf" width="650" height="400">
           </div>
 
       </div>
