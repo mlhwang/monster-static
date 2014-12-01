@@ -4586,6 +4586,11 @@ a.list-group-item.active > .badge,
   max-width: 100%;
   border-radius: 6px;
 }
+.container .ppt2 {
+  embed:focus { 
+  outline: none;
+  }
+}
 .thumbnail {
   display: block;
   padding: 4px;
