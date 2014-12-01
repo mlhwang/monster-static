@@ -10,7 +10,7 @@
  <body>
     <div class="container">
 
-<?php navbar("Students") ?>
+<?php navbar("Papers") ?>
 
         <div class="row">
 
