@@ -4586,11 +4586,6 @@ a.list-group-item.active > .badge,
   text-align:right;
 }
 .container .ppt2 {
-  float: right;
-  font-size: 40px;
-  embed:focus { 
-  outline: none;
-  }
 }
 .thumbnail {
   display: block;
