@@ -4588,6 +4588,7 @@ a.list-group-item.active > .badge,
   border-radius: 6px;
 }
 .container .ppt2 {
+  float: right;
   text-align:left;
   max-width: 300%;
   embed:focus { 
