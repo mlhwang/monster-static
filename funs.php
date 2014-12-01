@@ -42,22 +42,22 @@ function navbar($page){
 
    echo " <li ";
    if ($page == 'Team Members') echo "class=\"active\"";
-   echo"><a href=\"teachers.php\">Teachers</a></li>";
+   echo"><a href=\"teachers.php\">Team Members</a></li>";
 
    echo " <li ";
    if ($page == 'Fixing') echo "class=\"active\"";
-   echo"><a href=\"students.php\">Students</a></li>";
+   echo"><a href=\"students.php\">Fixing</a></li>";
 
    echo " <li ";
    if ($page == 'Fixing') echo "class=\"active\"";
-   echo"><a href=\"photos.php\">Photos</a></li>";
+   echo"><a href=\"photos.php\">Fixing</a></li>";
 
    echo " <li ";
    if ($page == 'Fixing') echo "class=\"active\"";
-   echo"><a href=\"location.php\">Location</a></li>";
+   echo"><a href=\"location.php\">Fixing</a></li>";
 
    echo" </ul>
-        <h3 class=\"text-muted\">LOTUS STEM</h3>
+        <h3 class=\"text-muted\">Monster Appetite</h3>
       </div>";
 }
 
