@@ -30,7 +30,7 @@
             </div> 
 
             <div class="col-lg-4 col-sm-6">
-                <img height=200 class="img-circle" src="MariaPic.png">
+                <img height=200 class="img-circle" src="imgs/MariaPic.png">
                 <h3>Maria Hwang
                     <small>Game Designer / Dev</small>
                 </h3>
