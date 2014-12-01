@@ -19,6 +19,10 @@
         <a href="http://vimeo.com/61055676">Monster Appetite Gameplay</a> from 
         <a href="http://vimeo.com/user9470829">Maria Hwang</a> with 
         <a href="https://vimeo.com">Grad Students</a>.</p> 
+          <div class="ppt2">
+            <embed src="Monster Appetite_public.swf">
+          </div>
+
       </div>
       <!--
       <div class="ppt"> 
